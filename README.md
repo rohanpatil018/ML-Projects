@@ -26,7 +26,7 @@ Scikit-learn
 
 🚀 How to Use
 
-Clone the repository:-git clone https://github.com/your-username/ML-Projects.git
+Clone the repository:-https://github.com/rohanpatil018/ML-Projects.git
 Navigate to a project folder
 Install required dependencies
 Run the notebook or script
